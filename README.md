@@ -1,4 +1,4 @@
-## Cal Grant Rosterizer
+# Cal Grant Rosterizer
                                                                  
 ROSTERIZER_1.0 - README.txt
 Welcome to Rosterizer_1.0! This is a simple executable file that helps you automate the process of cleaning a TXT file, merges them with data, and exports the results to a CSV
