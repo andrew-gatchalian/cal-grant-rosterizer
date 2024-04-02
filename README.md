@@ -1,9 +1,4 @@
-==================================================================
-  ____             __            _                    ___ ____ 
-   / __ \____  _____/ /____  _____(_)___  ___  _____   <  // __ \
-  / /_/ / __ \/ ___/ __/ _ \/ ___/ /_  / / _ \/ ___/   / // / / /
- / _, _/ /_/ (__  ) /_/  __/ /  / / / /_/  __/ /      / // /_/ / 
-/_/ |_|\____/____/\__/\___/_/  /_/ /___/\___/_/      /_(_)____/  
+## Cal Grant Rosterizer
                                                                  
 ROSTERIZER_1.0 - README.txt
 Welcome to Rosterizer_1.0! This is a simple executable file that helps you automate the process of cleaning a TXT file, merges them with data, and exports the results to a CSV
